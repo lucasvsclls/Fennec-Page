@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(black,black,rgb(113, 12, 33));
+    text-align:center;
+}
+.botaovermelho{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: crimson;
+    background-color: crimson;
+    color: white;
+    font-size: 16px;
+}  
+h1{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fennec{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.audio{
+    border-color:crimson;
+}
+video{
+    border-radius: px;
+}
+.motorzin{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
